@@ -1,2 +1,2 @@
-# Basic-WPF-MVVM
-Core files to implement MVVM.
+# Minimal WPF MVVM
+Core files to implement a minimal MVVM.
